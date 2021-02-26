@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "941339639100",
+    "project_id": "cloudefirestore-database",
+    "storage_bucket": "cloudefirestore-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941339639100:android:20f89d84a8dab5e8323239",
+        "android_client_info": {
+          "package_name": "com.united.cloude_firestore_and_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941339639100-n2k96o8fiaavskk9b5n8uh7gv1b9r7de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.united.cloude_firestore_and_database",
+            "certificate_hash": "57a0fb4e30ac07ca9a24e8e906a3063fdca2bbdd"
+          }
+        },
+        {
+          "client_id": "941339639100-uf6ac1ha4d06rgbqbm85uhlulmj91i7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQs-DXb0KK2agCFu95ZkffRsxSxThn0fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941339639100-uf6ac1ha4d06rgbqbm85uhlulmj91i7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
