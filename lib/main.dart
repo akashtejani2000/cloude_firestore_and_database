@@ -1,3 +1,4 @@
+import 'package:cloude_firestore_and_database/Screen/Homepage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -7,6 +8,8 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return MaterialApp(
+      home: Homepage(),
+    );
   }
 }
