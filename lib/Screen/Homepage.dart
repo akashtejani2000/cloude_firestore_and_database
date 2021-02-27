@@ -76,9 +76,9 @@ class _HomepageState extends State<Homepage> {
                         },
                         child: Text('Submit'),
                       ),
-                      // Flexible(child: FirebaseAnimatedList(
-                      //   query: _,
-                      // ))
+                      Flexible(child: FirebaseAnimatedList(
+
+                      ))
                     ],
                   ),
                 ),
